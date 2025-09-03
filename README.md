@@ -23,7 +23,7 @@ Sviluppare un sistema interattivo in **LiveScript** per la predizione della mort
 
 1. **Importazione del dataset**
 2. **Visualizzazione interattiva** di variabili cliniche
-3. **Addestramento del modello predittivo**
+3. **Utilizzo dei modelli predittivi di MATLAB**
 4. **Memorizzazione dei risultati** in un database SQLite
 
 ## Tecnologie Utilizzate
