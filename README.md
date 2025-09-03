@@ -12,7 +12,7 @@ Il file utilizzato è `heart_failure_clinical_records_dataset.csv`, in formato C
 Ogni riga rappresenta un paziente, con 12 feature cliniche e 1 variabile target (mortalità).
 
 - **Numero di record**: 299 pazienti  
-- **Numero di colonne**: 13 (12 predittori + 1 target)  
+- **Numero di colonne**: 13 features (12 predittori + 1 target)  
 - **Formato**: CSV (Comma-Separated Values)
 
 ## Obiettivo del Progetto
